@@ -7,7 +7,7 @@ public class GuessingGame {
         Scanner scanner = new Scanner(System.in);
         Random random = new Random();
 
-        int maxAttempts = 5, score = 0;
+        int maxAttempts = 2, score = 0;
         String playAgain;
 
         do {
